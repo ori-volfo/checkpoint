@@ -1,0 +1,11 @@
+body{
+    margin:  10px;
+}
+#todos{
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.btn{
+    width: 80px;
+}
